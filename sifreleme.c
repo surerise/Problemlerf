@@ -24,7 +24,7 @@ ilk=sayi;
 ilk= (ilk*1000+7)/10;
 iki= (iki*100+7)/10;
 uc=(uc*10+7)/10;
-dort=(dort+7)/10;
+dort=(dort*10+7)/10;
 //şifrenlenmiş sayıyı çıktı alma
 
 printf("Sifre:%d%d%d%d",uc,dort,ilk,iki);
